@@ -15,7 +15,6 @@ namespace Nop.Core
         public override bool Equals(object obj)
         {
             return Equals(obj as BaseEntity);
-            qqqq
         }
 
         private static bool IsTransient(BaseEntity obj)
