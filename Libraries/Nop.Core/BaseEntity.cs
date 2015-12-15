@@ -11,7 +11,7 @@ namespace Nop.Core
         /// Gets or sets the entity identifier
         /// </summary>
         public int Id { get; set; }
-        test
+
         public override bool Equals(object obj)
         {
             return Equals(obj as BaseEntity);
