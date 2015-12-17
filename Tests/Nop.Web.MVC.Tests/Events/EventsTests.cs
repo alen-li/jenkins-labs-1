@@ -12,7 +12,7 @@ namespace Nop.Web.MVC.Tests.Events
     {
         private NopEngine _engine;
         private IEventPublisher _eventPublisher;
-
+        qqq
         [TestFixtureSetUp]
         public void SetUp()
         {
