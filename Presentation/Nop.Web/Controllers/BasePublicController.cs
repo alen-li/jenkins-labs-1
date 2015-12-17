@@ -5,7 +5,7 @@ using Nop.Web.Framework;
 using Nop.Web.Framework.Controllers;
 using Nop.Web.Framework.Security;
 using Nop.Web.Framework.Seo;
-aaaa
+
 namespace Nop.Web.Controllers
 {
     [CheckAffiliate]
